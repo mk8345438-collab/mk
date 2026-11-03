@@ -50,7 +50,7 @@ A Python-based virtual mouse system that tracks your hand gestures and maps them
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/air-mouse.git
+git clone https://github.com/mk8345438-collab/air-mouse.git
 cd air-mouse
 ```
 
